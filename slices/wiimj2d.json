@@ -215,6 +215,17 @@
             }
         },
         {
+            "source": "dol/bases/d_s_stage_static.cpp",
+            "memoryRanges": {
+                ".text": "0xfb2d0-0xfbf50",
+                ".data": "0x23094-0x230a8",
+                ".bss": "0x226f0-0x22b60",
+                ".sdata": "0x1998-0x19a4",
+                ".sbss": "0x604-0x670",
+                ".sdata2": "0x20bc-0x20c4"
+            }
+        },
+        {
             "source": "dol/sLib/s_Phase.cpp",
             "memoryRanges": {
                 ".text": "0x158fc0-0x159090"
